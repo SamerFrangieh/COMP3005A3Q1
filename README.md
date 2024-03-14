@@ -1,6 +1,9 @@
 # PostgreSQL Python CRUD Application
 This repository has a Python application that shows how to perform CRUD operations on a PostgreSQL database using the psycopg2 library. It uses a students table as an example and is used for my assignement 3 in comp3005.
 
+### Before you start, here is my youtube video link :)
+https://youtu.be/2-87WvOQfY4?si=Dr7ywdaYfEcalLFd
+
 ## Prerequisites
 Before you begin, make sure these are installed:
 
